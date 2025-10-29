@@ -214,6 +214,17 @@
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-79" value="Debian 12&lt;div&gt;192.168.32.x&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="430.6" y="160" width="32.4" height="32.4" as="geometry" />
         </mxCell>
+        <mxCell id="Nbxbzdit7eM9LhjiLfYG-80" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.554;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Nbxbzdit7eM9LhjiLfYG-13" target="Nbxbzdit7eM9LhjiLfYG-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="590" as="sourcePoint" />
+            <mxPoint x="480" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="360" />
+              <mxPoint x="260" y="290" />
+              <mxPoint x="260" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
