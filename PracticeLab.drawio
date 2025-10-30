@@ -109,7 +109,10 @@
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-52" value="User 1&lt;div&gt;Admin&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
           <mxGeometry x="237.6" y="71" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nbxbzdit7eM9LhjiLfYG-53" value="User 2&lt;div&gt;Rob&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+        <mxCell id="Nbxbzdit7eM9LhjiLfYG-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nbxbzdit7eM9LhjiLfYG-53" target="Nbxbzdit7eM9LhjiLfYG-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nbxbzdit7eM9LhjiLfYG-53" value="User 2" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
           <mxGeometry x="290" y="71" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-54" value="User 3" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
