@@ -107,7 +107,7 @@
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-49" value="Internet&lt;div&gt;spaghetti.wpecloud.com&lt;/div&gt;&lt;div&gt;/guacamole&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="12" y="160" width="202.5" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="Nbxbzdit7eM9LhjiLfYG-52" value="User 1&lt;div&gt;Admin&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+        <mxCell id="Nbxbzdit7eM9LhjiLfYG-52" value="User 1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
           <mxGeometry x="237.6" y="71" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-53" value="User 2" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
