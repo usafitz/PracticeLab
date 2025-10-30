@@ -34,7 +34,7 @@
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-27" value="Sun - vlan31" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
           <mxGeometry x="12" y="4" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nbxbzdit7eM9LhjiLfYG-28" value="Mercury - vlan32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Nbxbzdit7eM9LhjiLfYG-28" value="Mercury - vlan32 - Linsghetti" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="292" y="145" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-29" value="Venus - vlan33" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
@@ -103,7 +103,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nbxbzdit7eM9LhjiLfYG-49" value="Internet&lt;div&gt;practice.wpecloud.com&lt;/div&gt;&lt;div&gt;/guacamole&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nbxbzdit7eM9LhjiLfYG-49" value="Internet&lt;div&gt;spaghetti.wpecloud.com&lt;/div&gt;&lt;div&gt;/guacamole&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="220" width="202.5" height="135" as="geometry" />
         </mxCell>
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-52" value="User 1&lt;div&gt;Admin&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
@@ -211,11 +211,11 @@
             <mxPoint x="815" y="111" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nbxbzdit7eM9LhjiLfYG-78" value="Debian 12 Workstation - 192.168.31.21 - Access to 32 Router - Multiple users" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
-          <mxGeometry x="310" y="10" width="460" height="30" as="geometry" />
+        <mxCell id="Nbxbzdit7eM9LhjiLfYG-78" value="Debian 12 Workstation - 192.168.31.21 - Access to 32 Router - Multiple users &quot;The Spaghetti Bowl&quot;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="230" y="10" width="560" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-79" value="Debian 12&lt;div&gt;192.168.32.x&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="430.6" y="160" width="32.4" height="32.4" as="geometry" />
+          <mxGeometry x="429.6" y="175" width="32.4" height="32.4" as="geometry" />
         </mxCell>
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-80" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.554;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Nbxbzdit7eM9LhjiLfYG-13" target="Nbxbzdit7eM9LhjiLfYG-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
