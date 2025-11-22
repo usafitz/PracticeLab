@@ -333,8 +333,8 @@
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-131" value="No Internet" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="740" y="842" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nbxbzdit7eM9LhjiLfYG-132" value="No Internet" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="740" y="982" width="90" height="30" as="geometry" />
+        <mxCell id="Nbxbzdit7eM9LhjiLfYG-132" value="Internet Access - practice proxying" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="982" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-134" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.025;exitY=1.014;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.397;entryY=-0.055;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
