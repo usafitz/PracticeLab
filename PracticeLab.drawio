@@ -29,7 +29,7 @@
           <mxGeometry height="130" width="980" x="290" y="845" as="geometry" />
         </mxCell>
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=light-dark(#FFFFFF,#7E004B);" value="" vertex="1">
-          <mxGeometry height="130" width="980" x="290" y="985" as="geometry" />
+          <mxGeometry height="130" width="520" x="290" y="985" as="geometry" />
         </mxCell>
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="Sun - vlan31" vertex="1">
           <mxGeometry height="30" width="160" x="12" y="4" as="geometry" />
@@ -125,9 +125,6 @@
         </mxCell>
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);labelBorderColor=default;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Debian 12 Workstation - 192.168.31.21 - Access to 32 Router - Multiple users - &quot;The Spaghetti Bowl&quot;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="590" x="235" y="10" as="geometry" />
-        </mxCell>
-        <mxCell id="Nbxbzdit7eM9LhjiLfYG-79" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="Debian 12&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.32.11&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Web - Status&lt;/div&gt;" vertex="1">
-          <mxGeometry height="32.4" width="32.4" x="850" y="198.3" as="geometry" />
         </mxCell>
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-80" edge="1" parent="1" source="Nbxbzdit7eM9LhjiLfYG-13" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#21FF00);" target="Nbxbzdit7eM9LhjiLfYG-12" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -229,7 +226,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-103" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="Debian 12&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.32.99&lt;/font&gt;&lt;/div&gt;&lt;div&gt;SOCAT&lt;/div&gt;" vertex="1">
-          <mxGeometry height="32.4" width="32.4" x="1202.6" y="183.8" as="geometry" />
+          <mxGeometry height="32.4" width="32.4" x="1132.6" y="183.8" as="geometry" />
         </mxCell>
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-104" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#0000B4);fontSize=10;" value="Debian 12&lt;div&gt;&lt;font style=&quot;&quot;&gt;192.168.36.15&lt;/font&gt;&lt;/div&gt;&lt;div&gt;SSH Open&lt;/div&gt;" vertex="1">
           <mxGeometry height="32.4" width="32.4" x="471" y="752.6" as="geometry" />
@@ -469,10 +466,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9GwSe5EwasZR0cf5vuOA-17" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="Debian 12&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.32.98&lt;/font&gt;&lt;/div&gt;&lt;div&gt;SSH&lt;/div&gt;" vertex="1">
-          <mxGeometry height="32.4" width="32.4" x="1122" y="183.8" as="geometry" />
+          <mxGeometry height="32.4" width="32.4" x="1052" y="183.8" as="geometry" />
         </mxCell>
         <mxCell id="9GwSe5EwasZR0cf5vuOA-18" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="Debian 12&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.32.97&lt;/font&gt;&lt;/div&gt;&lt;div&gt;IPTABLES&lt;/div&gt;" vertex="1">
-          <mxGeometry height="32.4" width="32.4" x="1041" y="183.8" as="geometry" />
+          <mxGeometry height="32.4" width="32.4" x="971" y="183.8" as="geometry" />
         </mxCell>
         <mxCell id="9GwSe5EwasZR0cf5vuOA-19" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#000000,#000000);" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -496,7 +493,7 @@
           <mxGeometry height="32.4" width="32.4" x="850" y="615" as="geometry" />
         </mxCell>
         <mxCell id="9GwSe5EwasZR0cf5vuOA-24" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="Debian 12&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.32.95&lt;/font&gt;&lt;/div&gt;&lt;div&gt;ALL&lt;/div&gt;" vertex="1">
-          <mxGeometry height="32.4" width="32.4" x="960" y="183.8" as="geometry" />
+          <mxGeometry height="32.4" width="32.4" x="890" y="183.8" as="geometry" />
         </mxCell>
         <mxCell id="9GwSe5EwasZR0cf5vuOA-25" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="Debian 12&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.33.99&lt;/font&gt;&lt;/div&gt;&lt;div&gt;SOCAT&lt;/div&gt;" vertex="1">
           <mxGeometry height="32.4" width="32.4" x="1202.6" y="327" as="geometry" />
@@ -552,17 +549,14 @@
         <mxCell id="Rwq6UJctKRRoHVwAtYf5-15" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="Win 2022 Svr" vertex="1">
           <mxGeometry height="32.4" width="32.4" x="478.4" y="1180.9999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="Rwq6UJctKRRoHVwAtYf5-16" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="Debian 12&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.38.11&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 34));&quot;&gt;Generator&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="32.4" width="32.4" x="850" y="1020" as="geometry" />
-        </mxCell>
         <mxCell id="Rwq6UJctKRRoHVwAtYf5-17" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="812.4" y="1080" as="sourcePoint" />
             <mxPoint x="812.4" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rwq6UJctKRRoHVwAtYf5-18" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="Debian 12&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.32.15&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Web - Analyze Logs&lt;/div&gt;" vertex="1">
-          <mxGeometry height="32.4" width="32.4" x="420" y="198.3" as="geometry" />
+        <mxCell id="Rwq6UJctKRRoHVwAtYf5-18" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="Debian 12&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.32.15&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Web / SSH - Analyze Logs&lt;/div&gt;" vertex="1">
+          <mxGeometry height="32.4" width="32.4" x="548.8" y="192.60000000000002" as="geometry" />
         </mxCell>
         <mxCell id="zWaqNwoXEUAa7g4_reUu-1" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="MikroTik&lt;br&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.33.11&lt;/font&gt;&lt;/div&gt;&lt;div&gt;V-6.49.15 (earliest)&lt;/div&gt;" vertex="1">
           <mxGeometry height="32.4" width="32.4" x="430" y="335" as="geometry" />
@@ -570,14 +564,26 @@
         <mxCell id="zWaqNwoXEUAa7g4_reUu-2" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="MikroTik&lt;br&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.33.11&lt;/font&gt;&lt;/div&gt;&lt;div&gt;V-6.49.19&lt;/div&gt;" vertex="1">
           <mxGeometry height="32.4" width="32.4" x="520" y="335" as="geometry" />
         </mxCell>
+        <mxCell id="zWaqNwoXEUAa7g4_reUu-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#BAC8D3,#32AF44);strokeColor=#23445d;gradientColor=default;" value="" vertex="1">
+          <mxGeometry height="130" width="450" x="819.4" y="984" as="geometry" />
+        </mxCell>
         <mxCell id="zWaqNwoXEUAa7g4_reUu-3" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="MikroTik&lt;br&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.33.11&lt;/font&gt;&lt;/div&gt;&lt;div&gt;V-7.20.2&lt;/div&gt;" vertex="1">
           <mxGeometry height="32.4" width="32.4" x="600" y="335" as="geometry" />
         </mxCell>
         <mxCell id="zWaqNwoXEUAa7g4_reUu-4" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="MikroTik&lt;br&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.33.11&lt;/font&gt;&lt;/div&gt;&lt;div&gt;V-7.20.6 (latest)&lt;/div&gt;" vertex="1">
           <mxGeometry height="32.4" width="32.4" x="680" y="335" as="geometry" />
         </mxCell>
-        <mxCell id="zWaqNwoXEUAa7g4_reUu-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFDFD);align=left;fontColor=light-dark(#000000,#000000);" value="&lt;div&gt;&lt;font&gt;WORKSTATION&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;192.168.31.21&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;sun : &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;P@55weird!&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;jacob : &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;P@55weird!&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;root : &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;P1C0P@55weird!&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;INFRASTRUCTURE BOXES:&lt;/font&gt;&lt;/div&gt;&lt;font&gt;user : &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;P@55weird!&lt;/font&gt;&lt;div&gt;&lt;font&gt;root : &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;P1C0P@55weird!&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="393" width="188" x="32" y="327" as="geometry" />
+        <mxCell id="zWaqNwoXEUAa7g4_reUu-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFDFD);align=left;fontColor=light-dark(#000000,#000000);" value="&lt;div&gt;REMOTE ACCESS:&lt;/div&gt;&lt;div&gt;https://course.hackerifg.com&lt;/div&gt;&lt;div&gt;/guacamole/&lt;/div&gt;&lt;div&gt;2FA:&lt;/div&gt;&lt;div&gt;ja@wpecloud.com :&amp;nbsp;RgHCuY&amp;amp;Bd$7#ti&lt;/div&gt;&lt;div&gt;WEBMAIL:&lt;/div&gt;&lt;div&gt;webpageandemail.com&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;WORKSTATION&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;192.168.31.21&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;sun : &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;P@55weird!&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;jacob : &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;P@55weird!&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;root : &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;P1C0P@55weird!&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;INFRASTRUCTURE BOXES:&lt;/font&gt;&lt;/div&gt;&lt;font&gt;user : &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;P@55weird!&lt;/font&gt;&lt;div&gt;&lt;font&gt;root : &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;P1C0P@55weird!&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;HASH GENERATOR URL:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;http://192.168.50.11&lt;/font&gt;&lt;/div&gt;&lt;div&gt;[or send payload via browser]&lt;/div&gt;&lt;div&gt;http://192.168.50.11:5000/&lt;/div&gt;&lt;div&gt;echo_hash?callback_ip=&amp;lt;your IP&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;amp;callback_port=&amp;lt;your Port&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;amp;user=testvalue&lt;/div&gt;" vertex="1">
+          <mxGeometry height="413" width="230" x="7.600000000000001" y="367.4" as="geometry" />
+        </mxCell>
+        <mxCell id="zWaqNwoXEUAa7g4_reUu-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ACCESSIBLE&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;FROM&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ALL&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;NETWORKS&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="169" x="872" y="989" as="geometry" />
+        </mxCell>
+        <mxCell id="Rwq6UJctKRRoHVwAtYf5-16" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="Debian 12&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.50.11&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 34));&quot;&gt;Generator&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="32.4" width="32.4" x="940.3" y="1027.6" as="geometry" />
+        </mxCell>
+        <mxCell id="zWaqNwoXEUAa7g4_reUu-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Galaxy - vlan50 - &quot;Galschetti&quot;&lt;div&gt;No Internet&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="1090" y="989" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
