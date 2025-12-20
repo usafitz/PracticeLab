@@ -84,7 +84,7 @@
             <mxPoint x="111" y="170" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nbxbzdit7eM9LhjiLfYG-49" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="Internet&lt;div&gt;spaghetti.wpecloud.com&lt;/div&gt;&lt;div&gt;/guacamole&lt;/div&gt;" vertex="1">
+        <mxCell id="Nbxbzdit7eM9LhjiLfYG-49" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="Internet&lt;div&gt;course.wpecloud.com&lt;/div&gt;&lt;div&gt;/guacamole&lt;/div&gt;" vertex="1">
           <mxGeometry height="135" width="202.5" x="12" y="160" as="geometry" />
         </mxCell>
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-52" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" value="sun" vertex="1">
