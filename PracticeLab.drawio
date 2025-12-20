@@ -753,6 +753,18 @@
         <mxCell id="Rwq6UJctKRRoHVwAtYf5-18" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="Debian 12&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.32.15&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Web - Analyze Logs&lt;/div&gt;" vertex="1">
           <mxGeometry height="32.4" width="32.4" x="420" y="198.3" as="geometry" />
         </mxCell>
+        <mxCell id="zWaqNwoXEUAa7g4_reUu-1" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="MikroTik&lt;br&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.33.11&lt;/font&gt;&lt;/div&gt;&lt;div&gt;V-6.49.15 (earliest)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="32.4" width="32.4" x="430" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="zWaqNwoXEUAa7g4_reUu-2" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="MikroTik&lt;br&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.33.11&lt;/font&gt;&lt;/div&gt;&lt;div&gt;V-6.49.19&lt;/div&gt;" vertex="1">
+          <mxGeometry height="32.4" width="32.4" x="520" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="zWaqNwoXEUAa7g4_reUu-3" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="MikroTik&lt;br&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.33.11&lt;/font&gt;&lt;/div&gt;&lt;div&gt;V-7.20.2&lt;/div&gt;" vertex="1">
+          <mxGeometry height="32.4" width="32.4" x="600" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="zWaqNwoXEUAa7g4_reUu-4" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="MikroTik&lt;br&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.33.11&lt;/font&gt;&lt;/div&gt;&lt;div&gt;V-7.20.6 (latest)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="32.4" width="32.4" x="680" y="335" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
