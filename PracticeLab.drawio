@@ -10,25 +10,25 @@
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFF2CC,#FFBD00);gradientColor=light-dark(#FFD966,#FFFFFF);strokeColor=#d6b656;" value="" vertex="1">
           <mxGeometry height="130" width="830" x="10" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="Nbxbzdit7eM9LhjiLfYG-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFCC99,#8E1D00);strokeColor=#36393d;gradientColor=default;" value="" vertex="1">
+        <mxCell id="Nbxbzdit7eM9LhjiLfYG-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFCC99,#8E1D00);strokeColor=#36393d;gradientColor=none;" value="" vertex="1">
           <mxGeometry height="130" width="980" x="290" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="Nbxbzdit7eM9LhjiLfYG-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFCCCC,#833B0B);strokeColor=#36393d;gradientColor=default;" value="" vertex="1">
+        <mxCell id="Nbxbzdit7eM9LhjiLfYG-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFCCCC,#833B0B);strokeColor=#36393d;gradientColor=none;" value="" vertex="1">
           <mxGeometry height="130" width="980" x="290" y="288" as="geometry" />
         </mxCell>
-        <mxCell id="Nbxbzdit7eM9LhjiLfYG-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#CCE5FF,#0104FF);strokeColor=#36393d;gradientColor=default;" value="" vertex="1">
+        <mxCell id="Nbxbzdit7eM9LhjiLfYG-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#CCE5FF,#0104FF);strokeColor=#36393d;gradientColor=none;" value="" vertex="1">
           <mxGeometry height="130" width="980" x="290" y="428" as="geometry" />
         </mxCell>
-        <mxCell id="Nbxbzdit7eM9LhjiLfYG-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FAD7AC,#860000);strokeColor=#b46504;gradientColor=default;" value="" vertex="1">
+        <mxCell id="Nbxbzdit7eM9LhjiLfYG-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FAD7AC,#860000);strokeColor=#b46504;gradientColor=none;" value="" vertex="1">
           <mxGeometry height="130" width="980" x="290" y="567" as="geometry" />
         </mxCell>
-        <mxCell id="Nbxbzdit7eM9LhjiLfYG-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=light-dark(#FFFFFF,#012B53);" value="" vertex="1">
+        <mxCell id="Nbxbzdit7eM9LhjiLfYG-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=light-dark(#FFFFFF,#012B53);" value="" vertex="1">
           <mxGeometry height="130" width="980" x="290" y="707" as="geometry" />
         </mxCell>
-        <mxCell id="Nbxbzdit7eM9LhjiLfYG-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=light-dark(#FFFFFF,#360065);" value="" vertex="1">
+        <mxCell id="Nbxbzdit7eM9LhjiLfYG-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=light-dark(#FFFFFF,#360065);" value="" vertex="1">
           <mxGeometry height="130" width="980" x="290" y="845" as="geometry" />
         </mxCell>
-        <mxCell id="Nbxbzdit7eM9LhjiLfYG-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=light-dark(#FFFFFF,#7E004B);" value="" vertex="1">
+        <mxCell id="Nbxbzdit7eM9LhjiLfYG-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=light-dark(#FFFFFF,#7E004B);" value="" vertex="1">
           <mxGeometry height="130" width="520" x="290" y="985" as="geometry" />
         </mxCell>
         <mxCell id="Nbxbzdit7eM9LhjiLfYG-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="Sun - vlan31" vertex="1">
@@ -507,7 +507,7 @@
         <mxCell id="9GwSe5EwasZR0cf5vuOA-28" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="Debian 12&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.33.95&lt;/font&gt;&lt;/div&gt;&lt;div&gt;ALL&lt;/div&gt;" vertex="1">
           <mxGeometry height="32.4" width="32.4" x="960" y="327" as="geometry" />
         </mxCell>
-        <mxCell id="Rwq6UJctKRRoHVwAtYf5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FAD7AC,#3E0000);strokeColor=#b46504;gradientColor=default;" value="" vertex="1">
+        <mxCell id="Rwq6UJctKRRoHVwAtYf5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FAD7AC,#3E0000);strokeColor=#b46504;gradientColor=none;" value="" vertex="1">
           <mxGeometry height="130" width="550" x="290" y="1153" as="geometry" />
         </mxCell>
         <mxCell id="Rwq6UJctKRRoHVwAtYf5-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Pluto - vlan39 - &quot;TempSchetti&quot;" vertex="1">
@@ -564,7 +564,7 @@
         <mxCell id="zWaqNwoXEUAa7g4_reUu-2" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="MikroTik&lt;br&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.33.22&lt;/font&gt;&lt;/div&gt;&lt;div&gt;V-6.49.19&lt;/div&gt;" vertex="1">
           <mxGeometry height="32.4" width="32.4" x="520" y="335" as="geometry" />
         </mxCell>
-        <mxCell id="zWaqNwoXEUAa7g4_reUu-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#BAC8D3,#32AF44);strokeColor=#23445d;gradientColor=default;" value="" vertex="1">
+        <mxCell id="zWaqNwoXEUAa7g4_reUu-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#BAC8D3,#32AF44);strokeColor=#23445d;gradientColor=none;" value="" vertex="1">
           <mxGeometry height="130" width="450" x="819.4" y="984" as="geometry" />
         </mxCell>
         <mxCell id="zWaqNwoXEUAa7g4_reUu-3" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);fontSize=10;" value="MikroTik&lt;br&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(37, 177, 0));&quot;&gt;192.168.33.23&lt;/font&gt;&lt;/div&gt;&lt;div&gt;V-7.20.2&lt;/div&gt;" vertex="1">
